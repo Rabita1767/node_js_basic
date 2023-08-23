@@ -138,5 +138,33 @@
         "stock": 25,
         "author": "Masashi Kishimoto",
         "id": 22
+    },
+    {
+        "id": 3,
+        "name": "ABC",
+        "price": 9.99,
+        "stock": 26,
+        "author": "XYZ"
+    },
+    {
+        "id": 4,
+        "name": "ABC",
+        "price": 9.99,
+        "stock": 26,
+        "author": "XYZ"
+    },
+    {
+        "id": 5,
+        "name": "ABC",
+        "price": 9.99,
+        "stock": 26,
+        "author": "XYZ"
+    },
+    {
+        "id": 9,
+        "name": "ABC",
+        "price": 9.99,
+        "stock": 26,
+        "author": "XYZ"
     }
 ]
